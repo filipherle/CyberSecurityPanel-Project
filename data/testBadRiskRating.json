@@ -1,0 +1,12 @@
+{"companies": [
+  {
+    "risk_rating": "bad_risk_rating",
+    "name": "Apple",
+    "industry": "Technology"
+  },
+  {
+    "risk_rating": "medium",
+    "name": "Nike",
+    "industry": "Fashion"
+  }
+]}
